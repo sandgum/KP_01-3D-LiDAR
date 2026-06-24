@@ -1,0 +1,7 @@
+# 3D Serial Plotter — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+pyserial>=3.5
+PyQt5>=5.15
+matplotlib>=3.7
+numpy>=1.24
